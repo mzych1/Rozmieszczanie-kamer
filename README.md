@@ -7,9 +7,6 @@ Skład zespołu:
 * Magdalena Zych
 
 Opis pliku wejściowego "dane.txt":
-
-*a
-
-*s
-
+* a
+* s
 * d
