@@ -3,8 +3,7 @@ Projekt z przedmiotu Podstawy Sztucznej Inteligencji (PSZT). Zadanie polegało n
 
 Skład zespołu:
 
-*Andrzej Przybylski
-
+* Andrzej Przybylski
 * Magdalena Zych
 
 Opis pliku wejściowego "dane.txt":
